@@ -1,3 +1,5 @@
+# HardPaint Triggerbot [1.1.0] [![Github All Releases]()]()
+
 # Valorant-triggerbot
 this is an OLD version, msg me on discord at @plate1 for the new version 
 ![image](https://github.com/vansWagner/Valorant-triggerbot/assets/152458055/04c1b442-0ef8-4059-9bf6-9db61bcb218c)
@@ -41,8 +43,17 @@ that and when running it also looks for keypresses
 
 OP and Marshal are not working?
 Make sure your skin doesn't make the scope dot the same color as the outline
-make sure you are using boxsize or higher
+make sure you are using 3 boxsize or higher
 
 
 FAVORITE THIS REPOSITORY
+And add onto it :)
 
+
+# Disclaimer ⚠️
+
+Please read this disclaimer carefully before using the triggerbot "tool" available on this GitHub site. By accessing or using the Tool, you agree to be bound by this disclaimer.
+
+**Responsibility: You are solely responsible for your actions and the consequences that may arise from the use of the Valorant TriggerBot. It is your responsibility to ensure that your use of the Tool complies with all applicable laws, regulations, and terms of service or terms of use.**
+
+**Use at Your Own Risk: The Valorant Trtiggerbot is provided for educational and informational purposes only.**
