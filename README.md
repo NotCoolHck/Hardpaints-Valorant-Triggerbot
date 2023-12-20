@@ -1,4 +1,4 @@
-# HardPaint Triggerbot [1.1.0] [![Github All Releases](https://img.shields.io/github/downloads/NotCoolHck/Hardpaints-Valorant-Triggerbot/total)]()
+# HardPaint Triggerbot [1.1.0] [![Github All Releases](https://img.shields.io/github/downloads/NotCoolHck/Hardpaints-Valorant-Triggerbot/total)]() _idk how to make work_
 
 **Windows 11** Version 10.0.22621 Build 22621 ✅                                      
 **Windows 10** Version 22H2 Build 19045.2965 ✅
