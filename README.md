@@ -10,9 +10,11 @@ YOU NEED AUTO HOT KEY v1 INSTALLED TO USE THIS SOFTWARE, IF YOU ARE HAVING ISSUE
 
 FAQ
 What does our program do?
+
 I removes all human error when it comes to holding angles, never miss again
 
 Can I get Banned?
+
 Yes, but it is very uncommon, the Anti-cheat can't ban you but if you're mass reported and there are someone screenshots of your GUI you can get banned. Just do not hold pixel corners that no-one could ever do
 
 What is the difference between hold mode and Constant mode?
@@ -26,6 +28,7 @@ make sure you have the outline the same as the target color or wou may need to r
 Video Mode: Windowed Full Screen (Not Full Screen)
 
 RAW INPUT BUFFER: OFF
+
 What are the Color Codes?
 I prefer Yellow as its the least common in maps and the most visible
 yellow(Deuteranopia)= 0xFEFE40
