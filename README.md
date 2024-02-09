@@ -8,8 +8,6 @@ this is an OLD version!
 
 More Coming soon join the Discord: https://discord.gg/awXNtYkU4D
 
-if our server is termed add me @plate1
-
 # prerequisites 🖥️
 
 YOU NEED AUTO HOT KEY v1 INSTALLED TO USE THIS SOFTWARE, IF YOU ARE HAVING ISSUES RUNNING THE SCRIPT YOU MAY NEED TO COMPILE THE AHK SCRIPT INTO A EXE
