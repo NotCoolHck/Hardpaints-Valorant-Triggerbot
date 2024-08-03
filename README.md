@@ -55,14 +55,15 @@ red= 0xB82C29
 
 
 # Milestones 🏆
-**10 Stars** - ***Random tick for Click delay*** ❌                             
-**20+ Stars** - ***Quality of life improvements***  ❌                                                                 
+**10 Stars** - ***Random tick for Click delay*** ✅                             
+**20+ Stars** - ***Quality of life improvements***  ✅(didn't get it but im nice ig)                                                                 
 **50+ Stars** - ***Toggle Mode*** ❌       
 **100+ Stars** - ***Dropdown for colors And More+++*** ❌       
 ✅❌
 # ScreenShot of triggerbot 💥
 
-![image](https://github.com/NotCoolHck/Hardpaints-Valorant-Triggerbot/assets/152458055/b25ba1ac-3a83-49e9-9d6a-2efc47f240df)
+![image](https://github.com/user-attachments/assets/91631190-ca86-45b7-bfb0-018b728d126a)
+
 
 
 # UPDATE DROPS 🎉
