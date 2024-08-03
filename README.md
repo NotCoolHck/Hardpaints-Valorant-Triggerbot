@@ -1,4 +1,4 @@
-# HardPaint Triggerbot [1.1.0] [![Github All Releases](https://img.shields.io/github/downloads/NotCoolHck/Hardpaints-Valorant-Triggerbot/total)]() _idk how to make work_
+# HardPaint Triggerbot [2.0]
 
 **Windows 11** Version 10.0.22621 Build 22621 ✅                                      
 **Windows 10** Version 22H2 Build 19045.2965 ✅
@@ -71,6 +71,8 @@ red= 0xB82C29
 THIS IS WERE ALL FUTURE UPDATES AND LOGS WILL BE
 
 [v1.1.0] made the entire bot and the github repository :)
+
+[v2.0] added random tick delay and a better UI
 
 # Disclaimer ⚠️
 
