@@ -3,11 +3,6 @@
 **Windows 11** Version 10.0.22621 Build 22621 ✅                                      
 **Windows 10** Version 22H2 Build 19045.2965 ✅
 
-# MAIN 🏆
-this is an OLD version!
-
-More Coming soon join the Discord: https://discord.gg/awXNtYkU4D
-
 # prerequisites 🖥️
 
 YOU NEED AUTO HOT KEY v1 INSTALLED TO USE THIS SOFTWARE, IF YOU ARE HAVING ISSUES RUNNING THE SCRIPT YOU MAY NEED TO COMPILE THE AHK SCRIPT INTO A EXE
