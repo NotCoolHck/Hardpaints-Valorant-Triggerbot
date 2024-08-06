@@ -1,4 +1,4 @@
-# HardPaint Triggerbot [2.0]
+# HardPaint Triggerbot [2.0] [![Github All Releases](https://img.shields.io/github/downloads/NotCoolHck/Hardpaints-Valorant-Triggerbot/total)]()
 
 **Windows 11** Version 10.0.22621 Build 22621 ✅                                      
 **Windows 10** Version 22H2 Build 19045.2965 ✅
